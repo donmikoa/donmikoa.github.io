@@ -15,7 +15,7 @@ One of my most exciting times during this journey is my data structures and algo
 
 Software engineering and database was quite fun as I was also able to use this class to refine my past projects and get feedback from my instructor on the corrections that need to be made. I have totally grasped all the core fundamental of the important topic. This is part of enhancement I did.
 
-I also was able to learnt a lot about security and secure coding. One of my best moment is when I learnt a lot about best practices when it comes to creating softwares and applications. 
+I also was able to learn a lot about security and secure coding. One of my best moment is when I learnt a lot about best practices when it comes to creating softwares and applications. 
 
 ### Education Reflection
 I number of courses that were quite challenging. This prompted me to do further research into getting a clearer understanding of the subject topic.

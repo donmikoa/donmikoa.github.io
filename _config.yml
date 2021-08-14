@@ -6,7 +6,7 @@ menu:
   - label: "Professional Self Assessment"
     url: "index.html"
   - label: "Code Review"
-    url: "refinement_review.html"
+    url: "code_review.html"
   - label: "Enhancement One"
     url: "enhancement_one.html"
   - label: "Enhancement Two"
