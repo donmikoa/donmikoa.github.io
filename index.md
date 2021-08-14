@@ -1,7 +1,7 @@
 
 # Michael Iyaomolere's ePortfolio
 ##### CS-499 Capstone
-## Professional Self Assessment
+## Professional Self-Assessment
 
 ### Journey So Far
 This has been an incredible journey for me since when I started back in 2018. I have learnt a number of things which has really helped me in my day to

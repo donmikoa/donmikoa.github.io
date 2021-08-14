@@ -3,7 +3,7 @@ title: Welcome to the Michael Iyaomolere's homepage!
 description: I am a Software Engineer about completing my B.S in Computer Science. This ePortfolio is my CS-499 capstone project for completing my degree at SNHU
 layouts_dir: _Layouts
 menu:
-  - label: "Professional Self Assessment"
+  - label: "Professional Self-Assessment"
     url: "index.html"
   - label: "Code Review"
     url: "code_review.html"
