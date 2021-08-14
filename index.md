@@ -1,13 +1,13 @@
 
-# Michael Iyaomolere ePortfolio
+# Michael Iyaomolere's ePortfolio
 ##### CS-499 Capstone
 ## Professional Self Assessment
 
 ### Journey So Far
 This has been an incredible journey for me since when I started back in 2018. I have learnt a number of things which has really helped me in my day to
-day life as a human and also as a software engineer. I was able to relate all that is been taught in class to all that is been carried out in today's industry. Having a computer science degree has been one of my goal which I kept on pushing with the help and feedback of my instructors. I am excited to be completing the last weeks of finally getting my degree. 
+day life as a human and also as a software engineer. I was able to relate all that is been taught in class to all that is been carried out in today's industry. Having a computer science degree has been one of my goals which I kept on pushing with the help and feedback of my instructors. I am excited to be completing the last weeks of finally getting my degree. 
 
-The course has given me a chance to collaborate in a team environment like I remember one of the courses where we were learning about git and all the class members had to review the pull requests of other members. That was really fun and showed how collaboration can help a team to grow.
+The courses has given me a chance to collaborate in a team environment, like I remember one of the courses where we were learning about git and all the class members had to review the pull requests of other members. That was really fun and it showed how collaboration can help a team to grow.
 
 I also learnt about proper communication to stakeholders, either during a presentation which is to be reviewed by the instructor or other team members or during the number of discussion and responses where we give our feedback based on what has been written or said. 
 
