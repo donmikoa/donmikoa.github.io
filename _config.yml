@@ -1,3 +1,15 @@
 theme: jekyll-theme-tactile
-title: Welcome to the Michael's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates test
+title: Welcome to the Michael Iyaomolere's homepage!
+description: I am a Software Engineer about completing my B.S in Computer Science. This ePortfolio s for completing my CS-499 capstone project at SNHU
+layouts_dir: _Layouts
+menu:
+  - label: "Professional Self Assessment"
+    url: "index.html"
+  - label: "Code Review"
+    url: "refinement_review.html"
+  - label: "Enhancement One"
+    url: "enhancement_one.html"
+  - label: "Enhancement Two"
+    url: "enhancement_two.html"
+  - label: "Enhancement Three"
+    url: "enhancement_three.html"
