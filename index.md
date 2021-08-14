@@ -18,7 +18,7 @@ Software engineering and database was quite fun as I was also able to use this c
 I also was able to learn a lot about security and secure coding. One of my best moment is when I learnt a lot about best practices when it comes to creating softwares and applications. 
 
 ### Education Reflection
-I number of courses that were quite challenging. This prompted me to do further research into getting a clearer understanding of the subject topic.
+A number of courses that were quite challenging. This prompted me to do further research into getting a clearer understanding of the subject topics.
 I also was able to incorporate the feedbacks from my instructors who were really knowledgeable and responded fat to my questions and concerns. 
 There were some few courses I really loved and I had some other few once where I was finally excited to be completing the course. My overall goal
 was to finish each course with the highest grades possible. I was able to achieve this in a number of courses.
