@@ -7,5 +7,3 @@ Reflecting on the process of enhancing/modifying my artifact. I learned a lot be
 
 ### Artifact GitHub Repo
 [Enhancement Artifact](https://github.com/donmikoa/donmikoa.github.io/blob/main/enhancements/3-2 Milestone Two Artifact.java)
-
-[Enhancement Artifact](https://github.com/donmikoa/donmikoa.github.io/enhancements/3-2 Milestone Two Artifact.java)

@@ -4,6 +4,5 @@ The artifact I selected was from one of my previous classes. IT-145 (Foundation 
 I also expanded the complexity of the code by adding a new function after the “printPassenger” function. The new function is “welcomePassenger”
 
 ### Artifact GitHub Repo
-[Enhancement Artifact](https://github.com/donmikoa/donmikoa.github.io/blob/main/enhancements/3-2 Milestone Two Artifact.java)
+[Enhancement Artifact](https://github.com/donmikoa/donmikoa.github.io/blob/fae87d792f28be071aee79cfd2d9a371e13f33f4/enhancements/4-2 Milestone Three-Enhancement Two.java)
 
-[Enhancement Artifact](https://github.com/donmikoa/donmikoa.github.io/enhancements/3-2 Milestone Two Artifact.java)
